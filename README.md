@@ -11,6 +11,17 @@
 # 数据库
 ## MySQL Workbench
 
+# 缓存
+## Rredis
+
+# 容器引擎
+## docker
+
+# web 服务器
+## Apache
+## Apache Tomcat
+## Nginx
+
 # 数据库建模
 ## ERDesigner NG
 
@@ -32,7 +43,7 @@
 # 压力测试
 ## JMeter
 
-# 模拟请求
+# 网络调试
 ## PostMan
 
 # 文档
