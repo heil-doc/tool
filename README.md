@@ -8,6 +8,12 @@
 # Ftp
 ## FileZilla
 
+# 数据库
+## MySQL Workbench
+
+# SSH
+## XShell
+
 # 脑图
 ## FreeMind
 
