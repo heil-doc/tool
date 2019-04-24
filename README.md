@@ -4,6 +4,7 @@
 # 版本管理
 ## Git
 ## SmartGit
+## GitLab
 
 # Ftp
 ## FileZilla
