@@ -52,3 +52,9 @@
 
 # 抓包
 ## Fiddler
+
+# 站点监测
+## Zabbix
+## Nagios
+## Ganglia
+## Zenoss
