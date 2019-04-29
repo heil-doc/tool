@@ -2,13 +2,13 @@
 
 | 名称 | 说明 | 相关链接 |
 | --- | --- | --- |
-| Vim | Linux、windows | |
+| Vim | WIN/LINUX | https://www.vim.org |
 
 # Markdown编辑器
 
 | 名称 | 说明 | 相关链接 |
 | --- | --- | --- |
-| MarkdownPad | windows平台 | http://www.markdownpad.com |
+| Atom |  MAC/WIN/LINUX | https://atom.io |
 
 
 # 版本管理
@@ -16,7 +16,7 @@
 | 名称 | 说明 | 相关链接 |
 | --- | --- | --- |
 | Git| 跨平台 |  |
-| SmartGit | 跨平台 | https://www.syntevo.com/smartgit/ |
+| SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |
 | GitLab | Linux服务端 | https://about.gitlab.com/ |
 
 # Ftp
