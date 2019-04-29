@@ -1,29 +1,29 @@
 ## 编辑器
 
-| 名称 | 说明 | 相关链接 |
-| --- | --- | --- |
-| Vim | WIN/LINUX | https://www.vim.org |
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Vim | WIN/LINUX | https://www.vim.org | |
 
 ## Markdown编辑器
 
-| 名称 | 说明 | 相关链接 |
-| --- | --- | --- |
-| Atom |  MAC/WIN/LINUX | https://atom.io |
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Atom |  MAC/WIN/LINUX | https://atom.io | |
 
 
 ## 版本管理
 
-| 名称 | 说明 | 相关链接 |
-| --- | --- | --- |
-| Git| 跨平台 |  |
-| SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |
-| GitLab | Linux服务端 | https://about.gitlab.com/ |
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Git| 跨平台 |  |  |
+| SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |  |
+| GitLab | Linux服务端 | https://about.gitlab.com/ |  |
 
 ## Ftp
 
-| 名称 | 说明 | 相关链接 |
-| --- | --- | --- |
-| FileZilla |  MAC/WIN/LINUX | https://filezilla-project.org |
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| FileZilla |  MAC/WIN/LINUX | https://filezilla-project.org |  |
 
 # 数据库
 ## MySQL Workbench
