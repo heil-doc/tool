@@ -33,7 +33,6 @@
 
 # 全文搜索
 
-1. Lucene 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Lucene| Java | https://segmentfault.com/a/1190000013822385 |  |
