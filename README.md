@@ -19,6 +19,14 @@
 | SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |  |
 | GitLab | Linux服务端 | https://about.gitlab.com/ |  |
 
+## 文档管理
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| GitBook| | https://www.gitbook.com/  |  |
+
+
+
 ## Ftp
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
