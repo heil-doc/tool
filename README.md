@@ -64,6 +64,11 @@
 
 # 内网穿透
 ## Lanproxy
+## ngrok
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| ngrok | Linux Windows Mac | https://ngrok.com/docs  |  |
 
 # SSH
 ## XShell
