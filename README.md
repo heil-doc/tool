@@ -72,6 +72,7 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | ngrok | Linux Windows Mac | https://ngrok.com/docs  |  |
+| frp | Linux Windows Mac | https://gitee.com/yijicai/frp  |  |
 
 # SSH
 ## XShell
