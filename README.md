@@ -85,6 +85,10 @@
 # 压力测试
 ## JMeter
 
+# 自动测试
+## Puppeteer
+## Selenium
+
 # 网络调试
 ## PostMan
 
