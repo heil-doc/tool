@@ -51,6 +51,12 @@
 # Java开源网络应用程序框架
 ## Netty
 
+# Java开发框架
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Mybatis | Java | https://mybatis.org/mybatis-3/ | 持久层框架 |
+| Mybatis Generator | Java | http://mybatis.org/generator/ | Mybatis 代码生成器 |
+
 # web 服务器
 ## Apache
 ## Apache Tomcat
