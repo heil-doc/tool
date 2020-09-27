@@ -82,6 +82,7 @@
 # 内网穿透
 ## Lanproxy
 ## ngrok
+## Frp
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
@@ -103,6 +104,7 @@
 # 自动测试
 ## Puppeteer
 ## Selenium
+## Jenkins newman postman
 
 # 网络调试
 ## PostMan
