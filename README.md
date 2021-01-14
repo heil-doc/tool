@@ -147,3 +147,9 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | zTree| web | https://jeesite.gitee.io/front/jquery-ztree/3.5/api/API_cn.html  |  |
+
+# PHP框架
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Drupal | PHP | https://www.drupal.org/ | 开源CMF |
