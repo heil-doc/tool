@@ -153,9 +153,16 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Drupal | PHP | https://www.drupal.org/ | 开源CMF |
+| Symfony | Linux Windows | https://symfony.com | 一组可复用的 PHP组件，它还是一个用于web项目的 PHP框架 |
 
 # 删除文件找回
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Puran File Recovery | Windows | http://www.puransoftware.com/File-Recovery-Download.html | |
+
+# 财务软件
+ 
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Apache OFBiz | Linux  macOS windows| https://ofbiz.apache.org | Java Web框架 |
