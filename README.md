@@ -148,6 +148,12 @@
 | --- | --- | --- | --- |
 | zTree| web | https://jeesite.gitee.io/front/jquery-ztree/3.5/api/API_cn.html  |  |
 
+# 表单设计器
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+|form-create | web | https://github.com/xaboy/form-create  |  |
+
 # PHP框架
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
