@@ -127,6 +127,11 @@
 ## Activiti
 ## Flowable BPMN 6.5.0
 
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Flowable | Java| https://tkjohn.github.io/flowable-userguide |  |
+
+
 # ERP
 ## OpenERP
 
