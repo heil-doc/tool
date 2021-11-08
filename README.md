@@ -163,8 +163,8 @@
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
-| Drupal | PHP | https://www.drupal.org/ | 开源CMF |
-| Symfony | Linux Windows | https://symfony.com | 一组可复用的 PHP组件，它还是一个用于web项目的 PHP框架 |
+| Drupal | PHP | https://www.drupal.org  http://drupalchina.cn | 开源CMF |
+| Symfony | Linux Windows | https://symfony.com  http://www.symfonychina.com | 一组可复用的 PHP组件，它还是一个用于web项目的 PHP框架 |
 
 # 删除文件找回
 
