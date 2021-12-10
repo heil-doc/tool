@@ -71,7 +71,8 @@
 ## Nginx
 
 # 数据库建模
-## ERDesigner NG
+| ERDesigner NG | Linux Windows Mac | https://github.com/mirkosertic/MogwaiERDesignerNG |  |
+| MySQL Workbench | Linux Windows Mac | https://www.mysql.com/cn/products/workbench/ |  |
 
 # SQL注入测试
 ## SQLMAP
