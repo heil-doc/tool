@@ -113,7 +113,7 @@
 | Graphviz | | http://www.graphviz.org <br> 编辑网址： http://magjac.com/graphviz-visual-editor <br> 预览网址： https://dreampuf.github.io/GraphvizOnline | Graphviz是大名鼎鼎的贝尔实验室的几位牛人开发的一个画图工具，历史比较久远了。它的软件设计理念和一般“所见即所得”的画图工具不一样，是“所想即所得”。Graphviz提供了DOT语言来编写绘图脚本。显然，这款软件并不适合一般用户，只适合那些对脚本语言代码较熟练的用户或是开发人员使用。<br> 优点：使用脚本绘图，功能强大，支持SVG　<br>缺点：无用户界面，不适合普通用户 |
 | Kivio | Linux | | Kivio是开源办公套件KOffice的一部分，是一款强大的Linux图表和流程图绘制软件。它可以帮助你快速设计原型、线框图、流程图或是图表。Kivio有着与微软Visio类似的用户界面，但在用户界面上有所增强，允许使用分割窗格进行图形绘制。比较遗憾的是，Kivio目前只面向Linux用户。优点：操作简单，界面清晰易懂　<br>　缺点：无Windows版本 |
 | UMLet | 跨平台 | https://www.umlet.com/changes.htm | UMLet是一款简单易用、免费、开源的UML建模工具。它能够快速的构建UML类图、序列图、活动图等，并且可以将原型导出为bmp、gif、eps、pdf、jpg、png、svg等格式。我们还可以在Eclipse下面创建自定义的元素。UMLet可以在Windows、OS X和Linux上独立运行，还可以作为Eclipse的插件运行 |
-| plantuml | 跨平台 | https://plantuml.com/zh/ | UML工具 时序图绘制简易，流程图绘制则较复杂 |
+| plantuml | 跨平台 | https://plantuml.com/zh/ 在线编辑：http://www.plantuml.com/plantuml/uml | UML工具 时序图绘制简易，流程图绘制则较复杂 |
 | EMF | | | Eclipse提供的一套建模框架，可以用EMF建立自己的UML模型，设计模型的XML格式或编写模型的java代码。EMF提供了一套方便的机制，实现了功能的相互转换，大大提高了效率 |
 
 > 制图工具可选UMLet和Graphviz便于文件加入到git中进行管理
