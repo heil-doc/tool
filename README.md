@@ -202,6 +202,13 @@
 | --- | --- | --- | --- |
 | zTree| web | https://jeesite.gitee.io/front/jquery-ztree/3.5/api/API_cn.html  |  |
 
+# 日期时间js插件
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| flatpickr | web | https://www.flatpickr.cn/  \n https://github.com/flatpickr/flatpickr |  |
+
+
 # 表单设计器
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
