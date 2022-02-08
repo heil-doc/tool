@@ -202,7 +202,7 @@
 | --- | --- | --- | --- |
 | flatpickr | web | https://www.flatpickr.cn/  \n https://github.com/flatpickr/flatpickr |  |
 
-# 3D js插件
+# canvas 3d渲染
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
