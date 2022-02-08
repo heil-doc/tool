@@ -70,7 +70,16 @@
 ## Apache Tomcat
 ## Nginx
 
+# 负载均衡
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| LVS | Linux | | 可实现四层负载 |
+
 # 数据库建模
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
 | ERDesigner NG | Linux Windows Mac | https://github.com/mirkosertic/MogwaiERDesignerNG |  |
 | MySQL Workbench | Linux Windows Mac | https://www.mysql.com/cn/products/workbench/ |  |
 
@@ -92,9 +101,7 @@
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
-| m0n0 | | https://m0n0.ch/wall/downloads.php  | |
-
-# 防火墙
+| m0n0 | | https://m0n0.ch/wall/downloads.php  | 局域网防火墙,可用于局域网与广域网安全防护 |
 
 
 # SSH
@@ -140,23 +147,6 @@
 
 # SSH
 ## XShell
-
-# 脑图
-## FreeMind
-
-# 架构图
-## visio
-
-# 压力测试
-## JMeter
-
-# 自动测试
-## Puppeteer
-## Selenium
-## Jenkins newman postman
-
-# 网络调试
-## PostMan
 
 # 文档
 ## Swagger
