@@ -65,6 +65,12 @@
 | Flutter | ios,Android ||  |git@github.com:heil-doc/tool.git
 | Html5plus| ios,Android || |
 
+# 桌面应用
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Electron| Mac Windows Linux | https://www.electronjs.org/ | Electron 基于 Chromium 和 Node.js, 让你可以使用 HTML, CSS 和 JavaScript 构建应用。 |
+
 # web 服务器
 ## Apache
 ## Apache Tomcat
