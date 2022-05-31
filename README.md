@@ -140,6 +140,7 @@
 
 # 原型图
 ## axure
+## Adobe XD
 
 # 压力测试
 ## JMeter
