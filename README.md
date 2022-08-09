@@ -249,8 +249,6 @@
 | --- | --- | --- | --- |
 | Puran File Recovery | Windows | http://www.puransoftware.com/File-Recovery-Download.html | |
 
-# 财务软件
-
 
 # 表单设计器
 
@@ -276,3 +274,6 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Apache OFBiz | Linux  macOS windows| https://ofbiz.apache.org | Java Web框架 |
+
+# 录屏软件
+OBS Studio
