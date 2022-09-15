@@ -139,6 +139,7 @@
 | UMLet | 跨平台 | https://www.umlet.com/changes.htm | UMLet是一款简单易用、免费、开源的UML建模工具。它能够快速的构建UML类图、序列图、活动图等，并且可以将原型导出为bmp、gif、eps、pdf、jpg、png、svg等格式。我们还可以在Eclipse下面创建自定义的元素。UMLet可以在Windows、OS X和Linux上独立运行，还可以作为Eclipse的插件运行 |
 | plantuml | 跨平台 | https://plantuml.com/zh/ 在线编辑：http://www.plantuml.com/plantuml/uml | UML工具 时序图绘制简易，流程图绘制则较复杂 |
 | EMF | | | Eclipse提供的一套建模框架，可以用EMF建立自己的UML模型，设计模型的XML格式或编写模型的java代码。EMF提供了一套方便的机制，实现了功能的相互转换，大大提高了效率 |
+| GraphVis | | http://www.graphvis.cn/graphvis/ | 高性能，无依赖，简单易用，方便集成应用的图数据可视化分析组件 |
 
 > 制图工具可选UMLet和Graphviz便于文件加入到git中进行管理
 
@@ -264,3 +265,17 @@
 
 # 录屏软件
 OBS Studio
+
+# 数据可视化 
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| DataV | Linux  macOS windows| http://datav.jiaminghi.com/ | |
+| chart.js | Linux  macOS windows| https://www.chartjs.org/ | |
+
+# 报表引擎
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Davinci | Linux  macOS windows| https://github.com/edp963/davinci | |
+| UReport | Linux  macOS windows| https://github.com/youseries/ureport | |
