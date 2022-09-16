@@ -279,3 +279,12 @@ OBS Studio
 | --- | --- | --- | --- |
 | Davinci | Linux  macOS windows| https://github.com/edp963/davinci | |
 | UReport | Linux  macOS windows| https://github.com/youseries/ureport | |
+| Kibana | | https://github.com/elastic/kibana | |
+| Grafana | | https://github.com/grafana/grafana | 在Kibana基础上的一个分支演变而来，适用于时序数据或大量数据 |
+| Superset | | https://github.com/apache/superset | 静态报表表现力好 |
+
+# 搜索引擎
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Lucene | Linux  macOS windows| https://lucene.apache.org/ | |
