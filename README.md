@@ -19,6 +19,11 @@
 | SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |  |
 | GitLab | Linux服务端 | https://about.gitlab.com/ |  |
 
+## maven 私有仓库
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Nexus | 跨平台 | https://github.com/graphql-nexus/nexus |  |
+
 ## 文档管理
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
@@ -145,6 +150,11 @@
 
 # 架构图
 ## visio
+
+# 图形工具软件
+
+## gimp 开源位图
+## Inkscape 开源矢量图
 
 # 原型图
 ## axure
