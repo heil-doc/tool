@@ -16,7 +16,9 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Git| 跨平台 |  |  |
-| SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ |  |
+| SmartGit | MAC/WIN/LINUX | https://www.syntevo.com/smartgit/ | 社区版许可申请受限，弃用 |
+| SourceTree | MAC/WIN | https://www.sourcetreeapp.com | linux下无法使用 |
+| DiffMerge | MAC/WIN/LINUX | http://sourcegear.com/diffmerge/downloads.html | 文件对比工具 |
 | GitLab | Linux服务端 | https://about.gitlab.com/ |  |
 
 ## maven 私有仓库
