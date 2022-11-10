@@ -25,6 +25,8 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Nexus | 跨平台 | https://github.com/graphql-nexus/nexus |  |
+| 云秀 | https://packages.aliyun.com/maven | | 阿里云旗下协同平台 |
+| sonatype | www.sonatype.org | | maven官方仓库 |
 
 ## 文档管理
 
