@@ -186,6 +186,11 @@
 # SSH
 ## XShell
 
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| XShell | Windows | https://www.xshell.com/zh/xshell/ | 未开源，拟弃用 |
+| PuTTY | Windows Unix | https://www.putty.org | 开源小巧 |
+
 # 文档
 ## Swagger
 
