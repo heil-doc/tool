@@ -309,3 +309,6 @@ OBS Studio
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Lucene | Linux  macOS windows| https://lucene.apache.org/ | |
+
+# 软路由
+
