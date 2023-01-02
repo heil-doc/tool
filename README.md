@@ -312,9 +312,9 @@ OBS Studio
 
 # 软路由
 
+# 网络诊断工具
 
-# DHCP 扫描工具
-DhcpServerDiscoveryTool
-
-# 路由追踪
-WinMTR
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| DhcpServerDiscoveryTool | |  | DHCP 扫描工具 |
+| WinMTR | | https://github.com/White-Tiger/WinMTR | 路由追踪 |
