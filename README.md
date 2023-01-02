@@ -312,3 +312,6 @@ OBS Studio
 
 # 软路由
 
+
+# DHCP 扫描工具
+DhcpServerDiscoveryTool
