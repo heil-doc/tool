@@ -315,3 +315,6 @@ OBS Studio
 
 # DHCP 扫描工具
 DhcpServerDiscoveryTool
+
+# 路由追踪
+WinMTR
