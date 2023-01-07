@@ -124,6 +124,16 @@
 | frp | Linux Windows Mac | https://gitee.com/yijicai/frp  |  |
 | Lanproxy | |  |  |
 
+# web代理服务器
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| Squid |  |  |  |
+| Privoxy |  |  |  |
+| Varnish Cache |  |  |  |
+| Polipo |  |  |  |
+| Tinyproxy |  |  |  |
+
 # 防火墙
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
@@ -270,13 +280,6 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Puran File Recovery | Windows | http://www.puransoftware.com/File-Recovery-Download.html | |
-
-# PHP框架
-
-| 名称 | 适用平台 | 相关链接 | 备注 |
-| --- | --- | --- | --- |
-| Drupal | PHP | https://www.drupal.org  http://drupalchina.cn | 开源CMF |
-| Symfony | Linux Windows | https://symfony.com  http://www.symfonychina.com | 一组可复用的 PHP组件，它还是一个用于web项目的 PHP框架 |
 
 # 财务软件
 
