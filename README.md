@@ -36,7 +36,6 @@
 | GitBook| | https://www.gitbook.com/  |  |
 
 
-
 ## Ftp
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
@@ -61,11 +60,18 @@
 | --- | --- | --- | --- |
 | Lucene| Java | https://segmentfault.com/a/1190000013822385 |  |
 
+# 分布式系统基础架构
+## hadoop
+
 # 容器引擎
 ## docker
 
 # Java开源网络应用程序框架
 ## Netty
+
+#  JVM语言
+## Scala
+## Kotlin
 
 # Java开发框架
 | 名称 | 适用平台 | 相关链接 | 备注 |
