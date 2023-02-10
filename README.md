@@ -66,6 +66,14 @@
 # 容器引擎
 ## docker
 
+# 虚拟机 私有云 IaaS
+## VMware
+## CloudStack
+## OpenStack
+## K8s
+## VirtualBox
+## Eucalyptus, OpenNebula, OpenStack, OpenQRM, XenServer, Oracle VM, CloudStack, ConVir
+
 # Java开源网络应用程序框架
 ## Netty
 
