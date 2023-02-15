@@ -74,6 +74,9 @@
 ## VirtualBox
 ## Eucalyptus, OpenNebula, OpenStack, OpenQRM, XenServer, Oracle VM, CloudStack, ConVir
 
+## 开源 IaaS
+### OpenNebula, Nimbus,OpenStack,Eucalyptus
+
 # Java开源网络应用程序框架
 ## Netty
 
@@ -259,6 +262,9 @@
 ## 人像分隔
 ## openAi
 
+# ai 绘图
+## Dream Studio
+
 # Java 框架
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
@@ -330,11 +336,6 @@ OBS Studio
 | Grafana | | https://github.com/grafana/grafana | 在Kibana基础上的一个分支演变而来，适用于时序数据或大量数据 |
 | Superset | | https://github.com/apache/superset | 静态报表表现力好 |
 
-# 搜索引擎
-
-| 名称 | 适用平台 | 相关链接 | 备注 |
-| --- | --- | --- | --- |
-| Lucene | Linux  macOS windows| https://lucene.apache.org/ | |
 
 # 软路由
 
