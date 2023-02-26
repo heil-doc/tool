@@ -321,7 +321,7 @@ OBS Studio
 
 # 数据可视化 
 
-| 名称 | 适用平台 | 相关链接 | 备注 |
+| 名称 | 适用平台 | 相关链接 | 备注 |：
 | --- | --- | --- | --- |
 | DataV | Linux  macOS windows| http://datav.jiaminghi.com/ | |
 | chart.js | Linux  macOS windows| https://www.chartjs.org/ | |
@@ -349,3 +349,8 @@ OBS Studio
 # 逆向工程
 
 x64dbg
+
+# 远程控制
+
+## RustDesk
+
