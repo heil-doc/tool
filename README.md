@@ -66,7 +66,7 @@
 # 容器引擎
 ## docker
 
-# 虚拟机 私有云 IaaS
+# 虚拟机 私有云 IaaS 超融合基础架构
 ## VMware
 ## CloudStack
 ## OpenStack
