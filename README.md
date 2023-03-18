@@ -103,6 +103,7 @@
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
 | Electron| Mac Windows Linux | https://www.electronjs.org/ | Electron 基于 Chromium 和 Node.js, 让你可以使用 HTML, CSS 和 JavaScript 构建应用。 |
+| Qt| Mac Windows Linux | | |
 
 # web 服务器
 ## Apache
