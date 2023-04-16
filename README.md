@@ -99,6 +99,12 @@
 | Mybatis | Java | https://mybatis.org/mybatis-3/ | 持久层框架 |
 | Mybatis Generator | Java | http://mybatis.org/generator/ | Mybatis 代码生成器 |
 
+# JDK升级工具 
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| EMT4J | Java | https://github.com/adoptium/emt4j | JDK升级工具 |
+
+
 # app框架
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
