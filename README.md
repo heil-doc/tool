@@ -1,4 +1,4 @@
-## 编辑器
+#/# 编辑器
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
 | --- | --- | --- | --- |
@@ -48,6 +48,15 @@
 # 缓存
 ## Rredis
 
+## 消息队列中间件
+
+| 名称 | 单机吞吐量 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| ActiveMQ| 万级 | | 较早期使用人较多，社区不活跃 |
+| RabbitMQ | 万级 | | erlang开发，有稳定支持，活跃度高|
+| RocketMQ | 10万级 | | 阿里出品,基于kafaka改进而来，已捐给Apache,GitHub上活跃度不高，可靠性高|
+| Kafaka | 10万级 | | 大数据领域实时计算、日志采集，社区活跃度高 |
+
 ## 本地开发环境
 
 | 名称 | 适用平台 | 相关链接 | 备注 |
@@ -95,7 +104,7 @@
 | --- | --- | --- | --- |
 | Reaction Native| ios,Android ||  |
 | PhoneGap | ios,Android ||  |
-| Flutter | ios,Android ||  |git@github.com:heil-doc/tool.git
+| Flutter | ios,Android ||  |
 | Html5plus| ios,Android || |
 
 # 桌面应用
@@ -131,6 +140,8 @@
 | --- | --- | --- | --- |
 | ERDesigner NG | Linux Windows Mac | https://github.com/mirkosertic/MogwaiERDesignerNG |  |
 | MySQL Workbench | Linux Windows Mac | https://www.mysql.com/cn/products/workbench/ |  |
+| OpenSystemArchitect |Linux windows ||
+| Open ModelShere |||
 
 # 点对点协议（Point-to-Point Protocol）
 # P2P技术
@@ -319,7 +330,7 @@
 # 录屏软件
 OBS Studio
 
-# 数据可视化 
+# 数据可视化
 
 | 名称 | 适用平台 | 相关链接 | 备注 |：
 | --- | --- | --- | --- |
@@ -353,4 +364,3 @@ x64dbg
 # 远程控制
 
 ## RustDesk
-
