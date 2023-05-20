@@ -225,9 +225,13 @@
 ## JMeter
 
 # 自动测试
+## Selenium 用的多
 ## Puppeteer
-## Selenium
 ## Jenkins newman postman
+## Appium
+## Robot Framework
+## Crpress
+## Playwright
 
 # 网络调试
 ## PostMan
