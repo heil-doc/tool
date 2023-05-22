@@ -73,13 +73,18 @@
 ## hadoop
 
 # 容器引擎
+## K8s
 ## docker
+## containerd 是docker的一部分，支持最新版K8s
+## OpenShift(OKD) 是 PaaS平台 基于容器的应用云平台，
+
+> K8s + OpenShift + containerd
+
 
 # 虚拟机 私有云 IaaS 超融合基础架构
 ## VMware
 ## CloudStack
 ## OpenStack
-## K8s
 ## VirtualBox
 ## Eucalyptus, OpenNebula, OpenStack, OpenQRM, XenServer, Oracle VM, CloudStack, ConVir
 
