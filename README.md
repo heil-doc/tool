@@ -385,4 +385,4 @@ x64dbg
 # VPN
 
 ## OpenVPN
-## PPT 
+## PPTP
