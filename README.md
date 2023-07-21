@@ -222,6 +222,7 @@
 
 ## gimp 开源位图
 ## Inkscape 开源矢量图
+## OpenCV 开源计算机视觉库
 
 # 原型图
 ## axure
