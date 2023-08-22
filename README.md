@@ -35,6 +35,11 @@
 | --- | --- | --- | --- |
 | GitBook| | https://www.gitbook.com/  |  |
 
+## 私有网盘
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| SeaFile |  MAC/WIN/LINUX | https://www.seafile.com |  |
 
 ## Ftp
 
@@ -198,6 +203,7 @@
 
 # 脑图
 ## FreeMind
+## xmind
 
 # 流程图和图表
 
