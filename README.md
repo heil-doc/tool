@@ -234,6 +234,13 @@ Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布
 # 架构图
 ## visio
 
+# pdf
+
+| 名称 | 适用平台 | 相关链接 | 备注 |
+| --- | --- | --- | --- |
+| pdfsam | 跨平台 | https://pdfsam.org | pdfsam (PDF Split And  Merge) 是一款可以为 PDF 文件进行合并和分割的软件，简称「pdfsam」。除了可进行合并与分割之外，还可以將一份 PDF 文件直接插入另一份 PDF 文件中间的页数，更可为 PDF 文件进行旋转。还提供预览编辑的功能，直接进行编排，可以说是非常方便。内建多国语言，且可支持各个平台。 |
+
+
 # 图形工具软件
 
 ## gimp 开源位图
