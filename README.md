@@ -88,6 +88,9 @@
 
 > K8s + OpenShift + containerd
 
+# 安卓手机 安装 Linux 
+## Linux Deploy
+
 # Zadig
 Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布式持续交付产品，具备灵活易用的高并发工作流、面向开发者的云原生环境、高效协同的测试管理、强大免运维的模板库、客观精确的效能洞察以及云原生 IDE 插件等重要特性，为工程师提供统一的协作平面。Zadig 内置了 K8s YAML、Helm Chart、主机等复杂场景最佳实践，适用大规模微服务、高频高质量交付等场景。
 
@@ -328,6 +331,8 @@ Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布
 ## 人像分隔
 ## 5W人脸抽特征
 ## openAi
+
+# 知识图谱
 
 # ai 绘图
 ## Dream Studio
