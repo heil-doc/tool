@@ -180,6 +180,8 @@ Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布
 # P2P技术
 # 区块链
 
+# IPFS是一个对等的分布式文件系统
+
 # SQL注入测试
 ## SQLMAP
 
