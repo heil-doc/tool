@@ -239,6 +239,7 @@ Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布
 
 # 架构图
 ## visio
+## yEd Graph Editor 保存的文件为xml源码
 
 # pdf
 
