@@ -266,7 +266,8 @@ Zadig 是 KodeRover 公司基于 Kubernetes 自主设计、研发的开源分布
 # 自动测试
 ## Selenium 用的多
 ## Puppeteer
-## Jenkins newman postman
+## Jenkins newman postman  
+# Insomnia 开源 可代替postman
 ## Appium
 ## Robot Framework
 ## Crpress
